@@ -7,14 +7,14 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "sequelize" ,
+    "sequelize",
     "discord.js": "0.2.7",
-    "sqlite3" ,
-    "discord.js-commando" ,
-    "eris" ,
+    "sqlite3",
+    "discord.js-commando",
+    "eris",
     "gcc": "1.0.2",
-    "ffmpeg": "0.0.4" ,
-    "ffmpeg-binaries": "3.2.2-3" ,
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "3.2.2-3",
     "request": "2.81.0"
   }
 }
