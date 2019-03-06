@@ -115,7 +115,7 @@ client.on('message', async message => {
     message.reply(`Transfering coins succesfully done!\nBalance from ${message.author.tag}: ${transfer.FromUser}\nBalance from ${user.tag}: ${transfer.ToUser}`);
   }
  
-  if (command === 'coinflip') {
+  if (command === 'coinflipp') {
  
     var flip = args[0] //Heads or Tails
     var amount = args[1] //Coins to gamble
@@ -131,7 +131,7 @@ client.on('message', async message => {
  
   }
  
-  if (command === 'dice') {
+  if (command === 'dicee') {
  
     var roll = args[0] //Should be number between 1 and 6
     var amount = args[1] //Coins to gamble
